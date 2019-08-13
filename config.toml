@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Tech stuff"
 defaultContentLanguage = "en"
 theme = "cayman-hugo-theme"
-
 # Syntax highlighting
 pygmentsCodefences = true
 pygmentsStyle = "pygments"
