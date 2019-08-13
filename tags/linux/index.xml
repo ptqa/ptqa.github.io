@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Tech stuff</title>
+    <link>https://ptqa.github.io/tags/linux/</link>
+    <description>Recent content in linux on Tech stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Aug 2019 04:05:41 +0300</lastBuildDate>
+    
+	<atom:link href="https://ptqa.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The mystery of docker &amp; .pyc</title>
+      <link>https://ptqa.github.io/pyc_docker/</link>
+      <pubDate>Tue, 13 Aug 2019 04:05:41 +0300</pubDate>
+      
+      <guid>https://ptqa.github.io/pyc_docker/</guid>
+      <description>Docker containers are the same, right? Once upon a time developers showed me strange problem. There were trying to obfuscate python code by compiling .py files (python code) to .pyc files (python compiled bytecode) the problem was that client could not run this .pyc files although it worked on dev host (work on my machine). Turns out that devs were trying to run .pyc file like this:
+$ chmod +x /app/run.</description>
+    </item>
+    
+  </channel>
+</rss>
