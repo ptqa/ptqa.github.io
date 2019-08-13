@@ -3,14 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ptqa.github.io/about/</loc>
-    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <loc>https://ptqa.github.io/post/</loc>
+    <lastmod>2019-08-13T04:05:41+03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ptqa.github.io/post/</loc>
-    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
+    <loc>https://ptqa.github.io/</loc>
+    <lastmod>2019-08-13T04:05:41+03:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ptqa.github.io/pyc_docker/</loc>
+    <lastmod>2019-08-13T04:05:41+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ptqa.github.io/about/</loc>
+    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -20,12 +31,6 @@
   
   <url>
     <loc>https://ptqa.github.io/tags/</loc>
-    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ptqa.github.io/</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
