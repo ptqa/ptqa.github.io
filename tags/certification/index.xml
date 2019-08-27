@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>career on Tech stuff</title>
-    <link>https://ptqa.github.io/tags/career/</link>
-    <description>Recent content in career on Tech stuff</description>
+    <title>certification on Tech stuff</title>
+    <link>https://ptqa.github.io/tags/certification/</link>
+    <description>Recent content in certification on Tech stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Aug 2019 12:12:08 +0300</lastBuildDate>
     
-	<atom:link href="https://ptqa.github.io/tags/career/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ptqa.github.io/tags/certification/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://ptqa.github.io/certifcation_aws/</guid>
       <description>AWS certification Nowadays it doesn&amp;rsquo;t make a lot of sense to pay &amp;amp; prepare for various certification if you aim to improve your skills and increase your market value. Position require certification are rare and nobody will give you additional credit for being certified during interview. Especially it&amp;rsquo;s true if you origin from developing country. In example, in India various cases of fraud with certification were reported and I&amp;rsquo;m not talking about memorising dump files.</description>
-    </item>
-    
-    <item>
-      <title>Start</title>
-      <link>https://ptqa.github.io/start/</link>
-      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ptqa.github.io/start/</guid>
-      <description>Today I quit my current job (yet again). But no, I&amp;rsquo;m not joining another company straight away. I&amp;rsquo;ve decided to take some time off and chill a bit. Not sure if I&amp;rsquo;ll have motivation to fill this blog with content, but I&amp;rsquo;ll try my best. 1 article per year maybe.</description>
     </item>
     
   </channel>

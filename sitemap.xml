@@ -32,6 +32,23 @@
   </url>
   
   <url>
+    <loc>https://ptqa.github.io/certifcation_aws/</loc>
+    <lastmod>2019-08-13T12:12:08+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ptqa.github.io/tags/career/</loc>
+    <lastmod>2019-08-13T12:12:08+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ptqa.github.io/tags/certification/</loc>
+    <lastmod>2019-08-13T12:12:08+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://ptqa.github.io/pyc_docker/</loc>
     <lastmod>2019-08-13T04:05:41+03:00</lastmod>
   </url>
@@ -56,12 +73,6 @@
   <url>
     <loc>https://ptqa.github.io/start/</loc>
     <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ptqa.github.io/tags/career/</loc>
-    <lastmod>2019-08-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
