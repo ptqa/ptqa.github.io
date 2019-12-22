@@ -6,18 +6,18 @@
     <description>Recent content on Tech stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Aug 2019 16:43:49 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2019 13:05:12 +0200</lastBuildDate>
     
 	<atom:link href="https://ptqa.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Always ask for more</title>
-      <link>https://ptqa.github.io/always_ask4more/</link>
-      <pubDate>Tue, 27 Aug 2019 16:43:49 +0300</pubDate>
+      <title>My second attempt to use MacOS for work</title>
+      <link>https://ptqa.github.io/macos/</link>
+      <pubDate>Sun, 22 Dec 2019 13:05:12 +0200</pubDate>
       
-      <guid>https://ptqa.github.io/always_ask4more/</guid>
-      <description>Tech bubble Currently we&amp;rsquo;re living in a growing tech bubble. Rich people invest billions into tech companies that report huge losses. They expect that any of those companies can become next FAANG company. This brings a lot of money into tech industry, which drives compensation up. It&amp;rsquo;s not uncommon to see people reporting compensations up to 1 mln on blind. And if you don&amp;rsquo;t have 1kk compensation package - always ask for more.</description>
+      <guid>https://ptqa.github.io/macos/</guid>
+      <description>MacOS MacOS is an unix-like operation system developed by Apple. Apple cares a lot about UI/UX which makes graphic part of the system amazing. I love MacOS Dock idea and use dock-like software for Linux today. Being unix-like system gives MacOS a lot of advantages compared to say Windows. Native terminal, proper dir structure, process management, etc. On paper MacOS sounds amazing unix-like user-friendly OS for desktop. And it&amp;rsquo;s very popular among software developers.</description>
     </item>
     
     <item>

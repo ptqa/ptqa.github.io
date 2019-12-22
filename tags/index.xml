@@ -6,17 +6,26 @@
     <description>Recent content in Tags on Tech stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Aug 2019 16:43:49 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2019 13:05:12 +0200</lastBuildDate>
     
 	<atom:link href="https://ptqa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>career</title>
-      <link>https://ptqa.github.io/tags/career/</link>
-      <pubDate>Tue, 27 Aug 2019 16:43:49 +0300</pubDate>
+      <title>desktop</title>
+      <link>https://ptqa.github.io/tags/desktop/</link>
+      <pubDate>Sun, 22 Dec 2019 13:05:12 +0200</pubDate>
       
-      <guid>https://ptqa.github.io/tags/career/</guid>
+      <guid>https://ptqa.github.io/tags/desktop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>macos</title>
+      <link>https://ptqa.github.io/tags/macos/</link>
+      <pubDate>Sun, 22 Dec 2019 13:05:12 +0200</pubDate>
+      
+      <guid>https://ptqa.github.io/tags/macos/</guid>
       <description></description>
     </item>
     
@@ -26,6 +35,15 @@
       <pubDate>Fri, 16 Aug 2019 01:58:54 +0300</pubDate>
       
       <guid>https://ptqa.github.io/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>career</title>
+      <link>https://ptqa.github.io/tags/career/</link>
+      <pubDate>Tue, 13 Aug 2019 12:12:08 +0300</pubDate>
+      
+      <guid>https://ptqa.github.io/tags/career/</guid>
       <description></description>
     </item>
     
